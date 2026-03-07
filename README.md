@@ -1,4 +1,5 @@
-﻿# review_bot_testing - develop local webhook testing
+﻿# review_bot_testing - develop checking os.getenv
+
 
 
 
